@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @1aws
+- 👋 Hi, I’m 1aws at One AAWS Development Team
 - 👀 I’m interested in servers
 - 🌱 I’m currently learning cloud infrastructure
 - 💞️ I’m looking to collaborate on enterprise development
